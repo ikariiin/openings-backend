@@ -24,8 +24,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1",
     "nodemon": "^2.0.19",
-    "prettier": "^2.7.1",
-    "typescript": "^5.4.5"
+    "prettier": "^2.7.1"
   },
   "dependencies": {
     "@koa/cors": "^3.3.0",
@@ -45,7 +44,8 @@
     "string-similarity": "^4.0.4",
     "typeorm": "^0.3.7",
     "youtube-search-without-api-key": "^1.0.7",
-    "ytdl-core": "^4.11.0"
+    "ytdl-core": "^4.11.0",
+    "typescript": "^5.4.5"
   },
   "scripts": {
     "build": "tsc",
